@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://physicsworld.in/sitemap.xml
+Sitemap: https://thephysicsworld.in/sitemap.xml
